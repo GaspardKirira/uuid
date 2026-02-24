@@ -1,0 +1,29 @@
+{
+  "name": "uuid",
+  "namespace": "gaspardkirira",
+  "version": "0.1.0",
+  "type": "header-only",
+  "include": "include",
+  "license": "MIT",
+  "description": "Minimal UUID v4 generator for modern C++.",
+  "keywords": [
+    "cpp",
+    "uuid",
+    "uuidv4",
+    "header-only",
+    "vix"
+  ],
+  "repository": "https://github.com/Gaspardkirira/uuid",
+  "authors": [
+    {
+      "name": "Gaspard Kirira",
+      "github": "Gaspardkirira"
+    }
+  ],
+  "deps": [
+    {
+      "id": "gaspardkirira/secure_random",
+      "version": "0.1.0"
+    }
+  ]
+}

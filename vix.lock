@@ -1,0 +1,12 @@
+{
+  "dependencies": [
+    {
+      "commit": "5c30c58e553fc4fe2c470405f86f8264ef45dea1",
+      "id": "gaspardkirira/secure_random",
+      "repo": "https://github.com/GaspardKirira/secure_random",
+      "tag": "v0.1.0",
+      "version": "0.1.0"
+    }
+  ],
+  "lockVersion": 1
+}
